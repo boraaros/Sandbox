@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.2.3</Version>
+    <Authors>Adrian Bilics</Authors>
+    <Description>Test nuget package</Description>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/boraaros/Sandbox</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/boraaros/Alligator.Solver/master/Icon.gif</PackageIconUrl>
+    <PackageTags>test nuget</PackageTags>
+    <PackageReleaseNotes>Appveyor test with .NET Standard 2.0</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
