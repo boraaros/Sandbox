@@ -11,7 +11,7 @@
     <PackageIconUrl>https://raw.githubusercontent.com/boraaros/Alligator.Solver/master/Icon.gif</PackageIconUrl>
     <PackageTags>test nuget</PackageTags>
     <PackageReleaseNotes>Appveyor test with .NET Standard 2.0</PackageReleaseNotes>
-    <PackageId>Sandbox</PackageId>
+    <PackageId>Sandbox1234test</PackageId>
   </PropertyGroup>
 
 </Project>
